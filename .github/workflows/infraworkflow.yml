@@ -1,4 +1,4 @@
-name: Create Azure Resources
+name: nfs_students
 on: 
     push:
         paths: 
